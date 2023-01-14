@@ -22,3 +22,5 @@ The following are detailed instructions for installing the code so you can code 
    The application should then compile and launch in your default browser.
 5)  Run the app, type `ng serve` and get familiarized with the code 
  
+
+https://docs.google.com/presentation/d/19Tl6wCpmDObtcVx5uC05JRdv_Lzvj1PRsLRbMSrea8E/edit#slide=id.g1b244243b87_0_0
