@@ -1,27 +1,24 @@
-# Apm
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+## INSTALLING THE CODE
 
-## Development server
+The following are detailed instructions for installing the code so you can code along with the course.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+0) Ensure you have node installed.
 
-## Code scaffolding
+   At a command prompt, type `node -v` to ensure you have version `14.0.0` or higher before proceeding.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1) Download or clone the code from this repository.
 
-## Build
+2) Navigate to the app root folder
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+   There should be a package.json file in this folder.
 
-## Running unit tests
+3) In a command window (or the Command prompt in VS Code), type `npm install`.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   This creates a node_modules folder and installs all packages from the package.json file into that folder. You may see a few warnings during this process, but you should not see any errors.
+   
+4) In the same command window (or the Command property in VS Code), type `npm start`.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   The application should then compile and launch in your default browser.
+5)  Run the app, type `ng serve` and get familiarized with the code 
+ 
